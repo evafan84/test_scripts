@@ -16,11 +16,6 @@ from collections import UserList
 # import pyuac
 # import psutil
 # import numpy as np
-# # import Pytest
-
-# # local modules (in-house modules)
-# import pathsetup
-# # import dependancies
 
 # memory=psutil.virtual_memory()
 
@@ -34,9 +29,9 @@ from collections import UserList
 
 
 # Change the current working directory
-os.chdir('C:\git_repo\My Test Project\My Test Project\OutputLogs')
+os.chdir('C:\git_repo\evafan84\test_scripts\OutputLogs')
 
-path = ('C:\git_repo\My Test Project\My Test Project\OutputLogs')
+path = ('C:\git_repo\evafan84\test_scripts\OutputLogs')
 
 def timeStamped(fname, fmt='%Y-%m-%d_%H.%M.%S. - {fname}'):
     return datetime.datetime.now().strftime(fmt).format(fname=fname)

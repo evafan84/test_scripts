@@ -3,7 +3,7 @@ import random
 import time
 
 #3 arrays that can output a random variable when called.
-Tanks = ['D.Va','Doomfist','Junker Queen','Mauga','Orisa','Ramattra','Reinhardt','Roadhog','Sigma','Winston','Wrecking Ball','Zarya']  
+Tanks = ['D.Va','Doomfist','Hazard','Junker Queen','Mauga','Orisa','Ramattra','Reinhardt','Roadhog','Sigma','Winston','Wrecking Ball','Zarya']  
 DPS = ['Ashe','Bastion','Cassidy','Echo','Genji','Hanzo','Junkrat','Mei','Pharah','Reaper','Sojourn','Soldier: 76','Sombra','Symmetra','Torbjörn','Tracer','Venture','Widowmaker'] 
 Support = ['Ana','Baptiste','Brigitte','Illari','Juno','Kiriko', 'Lifeweaver','Lúcio','Mercy','Moira','Zenyatta'] 
 
