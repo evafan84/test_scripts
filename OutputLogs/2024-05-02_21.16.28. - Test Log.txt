@@ -1,0 +1,7 @@
+TITLE: 21.16_02-05-2024: Fantasy Name Generator: Line 29:
+ Comencing Fantasy Chracter Name Generator.
+
+Select what gender you want the character to be.
+
+DEBUG: 21.16_02-05-2024: Fantasy Name Generator: Line 43:
+ Quitting
