@@ -29,6 +29,7 @@ def Picture():
     output_image = random_image+'.png'
     filename = (folder_path+output_image)
     img = Image.open(filename)
+    img.show()
     return img.show()
 
 
@@ -45,8 +46,7 @@ while True:
             print('\n')
             result = "This pokeball contains... " + color_code + Pokemon() +"\033[0m!"
             print (result)
-            Picture()
+            Picture
             print('\n')
            
-    break
       
